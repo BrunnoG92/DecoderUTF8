@@ -1,4 +1,4 @@
-# Product Name
+# DecodeUTF8
 > DecodeUTF8 is a user-friendly API designed to effortlessly decode UTF8 character escapes. It simplifies the process of translating encoded characters into their respective UTF8 representations.
 > For instance, if you have the character "á" (a with an acute accent), its encoded representation would be "\u00E1". With DecodeUTF8, you can seamlessly convert such encoded characters into their
 > original form with ease.
@@ -39,6 +39,6 @@ Install ASP.NET Core 7.0.8 or a compatible version. You can download it from the
 
 
 <!-- Markdown link & img dfn's -->
-[dotnet-image]: [https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square](https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
