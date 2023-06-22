@@ -22,7 +22,7 @@ Install ASP.NET Core 7.0.8 or a compatible version. You can download it from the
 
 
 * 0.0.1
-    * Work in progress - Firts version
+    * Work in progress - First version
 
 
 
