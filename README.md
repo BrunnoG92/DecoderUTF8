@@ -39,5 +39,6 @@ Install ASP.NET Core 7.0.8 or a compatible version. You can download it from the
 
 
 <!-- Markdown link & img dfn's -->
-[DotNet Core -image]: [https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+[dotnet-image]: [https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square](https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+
 
